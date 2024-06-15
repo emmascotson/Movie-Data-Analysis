@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore large data files in zippedData directory
+zippedData/*.zip
+zippedData/*.csv.gz
+zippedData/*.tsv.gz
+
+# Ignore unzipped data file in notebooks/Data directory
+notebooks/Data/*
+
+# Ignore images
+images/*
+
 # C extensions
 *.so
 
