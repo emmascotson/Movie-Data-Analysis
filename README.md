@@ -1,5 +1,5 @@
 # Profitable Film Featers Analysis
-<img src="./Images/title_pic.png" alt="description" width="90%" height="auto">
+![Title Image](images/title_pic.png)
 
 
 ### Analysis Overview
@@ -39,22 +39,21 @@ This project uses descriptive analysis and hypothesis testing to identify and ev
 Some key results of the analyses are presented here.  For full analyses see links to the notebook and presentation in the 'More Info' section below.
 
 Here are the top 6 genres average ppratio, showing Horror as the top genre
-![top_genres](./Images/top_genres.png)
+![top_genres](images/top_genres.png)
 
 The budget and net-profit trend since 2018 indicates there is potential risk in Comedy genre:
-![comedy_trend](./Images/comedy_trend.png)
+![comedy_trend](images/comedy_trend.png)
 
 Here we see that Universal Studio and Lionsgate production companies are the best choices to work with based on ppratio and net-profit:
-![studios_ppratio_netprofit](./Images/studios_ppratio_netprofit.png)
+![studios_ppratio_netprofit](images/studios_ppratio_netprofit.png)
 
 The top 15 Directors with the highest mean ppratio are compared to the rest of the field and presented in the graphs below. Similar analyses were performed for Writers and Actors, and are provided in the conclusions below.
 
 ---
-
-<img src="./Images/boxplot_directors.png" alt="description" width="75%" height="auto">
+![Directors Boxplot](images/boxplot_directors.png)
 
 ---
-
+![Directors Stripplot](images/stripplot_directors.png)
 <img src="./Images/stripplot_directors.png" alt="description" width="75%" height="auto">
 
 ---
