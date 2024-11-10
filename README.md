@@ -1,4 +1,4 @@
-# Profitable Film Featers Analysis
+# Genre Profitability of Feature Films
 ![Title Image](./images/title_pic.png)
 
 
