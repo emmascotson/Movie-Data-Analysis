@@ -10,9 +10,7 @@ zippedData/*.tsv.gz
 
 # Ignore unzipped data file in notebooks/Data directory
 notebooks/Data/*
-
-# Ignore images
-images/*
+*
 
 # C extensions
 *.so
