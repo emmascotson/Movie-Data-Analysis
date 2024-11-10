@@ -1,5 +1,5 @@
 # Profitable Film Featers Analysis
-![Title Image](images/title_pic.png)
+![Title Image](./images/title_pic.png)
 
 
 ### Analysis Overview
